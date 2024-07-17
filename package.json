@@ -55,7 +55,7 @@
     "karma-sourcemap-loader": "^0.3.7",
     "karma-webpack": "^4.0.2",
     "mocha": "^10.4.0",
-    "pdfjs-dist": "4.3.136",
+    "pdfjs-dist": "4.3.168",
     "sinon": "^18.0.0",
     "sinon-chai": "^3.3.0",
     "terser-webpack-plugin": "^4.2.3",
