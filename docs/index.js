@@ -1,4 +1,4 @@
-import PDFJSAnnotate from '../';
+import PDFJSAnnotate from '..';
 import initColorPicker from './shared/initColorPicker';
 
 function htmlEscape(text) {
